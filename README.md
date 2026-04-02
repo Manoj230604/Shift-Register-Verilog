@@ -44,7 +44,7 @@ The design was simulated using EDA Playground, and waveform analysis was perform
 
 ## Simulation Waveform
 
-![Waveform](waveform.png)
+![Waveform](waveform_1.png)
 
 ## Author
 
